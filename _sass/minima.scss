@@ -13,14 +13,9 @@ $spacing-unit:     30px !default;
 // backup original
 $text-color:       #48331c !default;
 $background-color: #f6d092 !default;
-$brand-color:      #724f29 !default;
+$brand-color:      #0066cc !default;
 
-//$text-color:       #43291f !default;
-//$background-color: #2f6f55 !default;
-//$brand-color:      #43291f !default;
-
-$grey-color:       #828282 !default;
-//$grey-color:       #43291f !default;
+$grey-color:       #404040 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
@@ -53,5 +48,7 @@ $on-laptop:        800px !default;
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/syntax-highlighting",
+  "gh-comments",
+  "gh-code"
 ;

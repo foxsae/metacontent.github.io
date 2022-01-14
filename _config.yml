@@ -28,18 +28,21 @@ url: "https://metacontent.github.io/" # the base hostname & protocol for your si
 twitter_username: realmetacontent
 github_username:  metacontent
 rss: rss
+show_excerpts: true
+
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-disqus:
-  shortname: alex_combas
+github_comments_repository:
+  "https://github.com/metacontent/comments_metacontent_github_io"
 
 header_pages:
   - about.markdown
   - investing.markdown
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
