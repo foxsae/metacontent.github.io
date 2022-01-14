@@ -5,6 +5,11 @@ date:   2022-01-14 01:56:06 -0800
 categories: Windows Linux Ubuntu Lisp Python Software Rights Freedom Cryptocurrency
 github_comments_issueid: 1
 ---
+
+{:refdef: style="text-align: center;"}
+![Coffee fit for a king](/assets/coffee.jpg)
+{: refdef}
+
 It's been said that a good first post for any blog is a description of
 the purposes and reasons behind said blog. It's also a good thing to
 introduce yourself and say hello. Well, Hello. Now, as far as the rest goes...
