@@ -21,15 +21,12 @@
 title: the metacontent blog
 email: alex@flyingcastle.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Over the past 50 years closed source software development has
-  produced monstrosities which now literally threaten the globe.
+  Picking through random ideas, and blogging about the things that are best not left forgotten.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metacontent.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: realmetacontent
+twitter_username: me_the_content
 github_username:  metacontent
-rss: rss
 show_excerpts: true
-
 
 # Build settings
 theme: minima
@@ -42,7 +39,6 @@ github_comments_repository:
 header_pages:
   - about.markdown
   - investing.markdown
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
