@@ -2,8 +2,7 @@
 layout: post
 title:  "Introduction"
 date:   2022-01-14 01:56:06 -0800
-categories: Windows Linux Ubuntu Lisp Python Software Rights Freedom Cryptocurrency
-github_comments_issueid: 1
+categories: Lisp Python Freedom Cryptocurrency
 ---
 
 {:refdef: style="text-align: center;"}
