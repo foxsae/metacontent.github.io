@@ -27,14 +27,12 @@ url: "https://metacontent.github.io/" # the base hostname & protocol for your si
 twitter_username: me_the_content
 github_username:  metacontent
 show_excerpts: true
+comments: giscus
 
-# Build settings
+    # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
-github_comments_repository:
-  "https://github.com/metacontent/comments_metacontent_github_io"
 
 header_pages:
   - about.markdown
